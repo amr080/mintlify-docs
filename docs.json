@@ -31,6 +31,19 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "group": "XFT Dollar (USDX)",
+            "pages": [
+              "usdx/overview",
+              "usdx/testnet",
+              "usdx/mainnet",
+              "usdx/contract",
+              "usdx/fund/summary",
+              "usdx/fund/statutory",
+              "usdx/fund/sai",
+              "essentials/reusable-snippets"
+            ]
           }
         ]
       },
